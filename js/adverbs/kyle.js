@@ -2,7 +2,10 @@ adverbs = adverbs.concat([
     'quickly',
     'foolishly',
     'coyly',
-    'madly',
-    'stupidly',
-    'sloppily',
-]);
+    'steezily',
+    'Christinely',
+    'Reevily',
+    'womaningly',
+    'Merylly',
+    'Dworinly',
+    ]);
