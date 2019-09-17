@@ -1,0 +1,3 @@
+'stinky'
+'awkward'
+'stingy'
